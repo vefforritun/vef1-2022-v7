@@ -1,5 +1,7 @@
 # Vefforritun 1, 2022: Verkefni 7, JS #1
 
+[Kynning](https://youtu.be/I5Lvm6Wh3so).
+
 ## Markmið
 
 * Búa til JavaScript forrit sem notar föll, flæðistýringar og ítranir.
